@@ -28,15 +28,21 @@
 
 ## 🧠 About Me
 
-```bash
-david@alpha-woolf:~$ whoami
+<div align="center">
+
+```yaml
+david@alpha-woolf:~$ whoami --verbose
+
+name:      David Felipe López Tabares
+role:      Full-Stack Developer — Odoo ERP & AI Automation
+company:   Alpha Woolf Consulting S.A.S.
+focus:     [Implementaciones Odoo, Agentes de IA, Automatización de procesos]
+stack:     [Python, Odoo, PostgreSQL, LangGraph, Claude API]
 ```
 
-- 🛠️ Desarrollador Full-Stack especializado en **Odoo (17 / 18 / 19)** — implementaciones, personalizaciones y documentación técnica/funcional.
-- 🤖 Integrando **IA generativa (Claude / Anthropic)** en flujos ERP y construyendo agentes propios con **LangGraph** y **Ollama**.
-- 💼 Actualmente desarrollando soluciones en **Alpha Woolf Consulting S.A.S.**
-- 🌱 Explorando automatización, agentes autónomos y dashboards estilo *Jarvis*.
-- ⚡ Fun fact: si no estoy programando, probablemente estoy afinando algún agente de IA para que hable en español con acento elegante.
+</div>
+
+Desarrollador full-stack especializado en el ecosistema **Odoo (17 / 18 / 19)**, enfocado en implementaciones a medida, personalizaciones y documentación técnica/funcional para clientes. Actualmente exploro la integración de **IA generativa (Claude / Anthropic)** en flujos ERP, y construyo agentes propios con **LangGraph** y **Ollama** para automatizar procesos.
 
 <br/>
 
