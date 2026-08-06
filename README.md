@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D72,50:2DE1C2,100:5C2D72&height=220&section=header&text=David%20Felipe%20L%C3%B3pez%20Tabares&fontSize=42&fontColor=E0E0E0&animation=fadeIn&fontAlignY=35&desc=Odoo%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=18&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D72,50:2DE1C2,100:5C2D72&height=220&section=header&text=David%20Felipe%20L%C3%B3pez%20Tabares&fontSize=42&fontColor=E0E0E0&animation=fadeIn&fontAlignY=35&desc=Odoo%20Developer%20%7C%20AI%20%2B%20Automation%20Engineer&descAlignY=55&descSize=18&fontFamily=monospace" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DE1C2&background=00000000&center=true&vCenter=true&width=600&lines=Full-Stack+Odoo+Developer;AI+%26+Automation+Engineer;Construyendo+soluciones+ERP+%2B+IA;Powered+by+Python%2C+Odoo+%26+Claude" alt="Typing SVG" />
@@ -74,18 +74,6 @@ david@alpha-woolf:~$ whoami
 
 <img src="https://github-readme-stats.vercel.app/api?username=DavidFLT&show_icons=true&hide_border=true&bg_color=00000000&title_color=2DE1C2&icon_color=B967FF&text_color=E0E0E0&ring_color=2DE1C2" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidFLT&hide_border=true&background=00000000&ring=2DE1C2&fire=B967FF&currStreakLabel=2DE1C2&sideLabels=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=8B8B8B&border=00000000" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFLT&layout=compact&hide_border=true&bg_color=00000000&title_color=2DE1C2&text_color=E0E0E0&langs_count=8" height="165" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DavidFLT&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
