@@ -72,7 +72,6 @@ david@alpha-woolf:~$ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidFLT&show_icons=true&hide_border=true&bg_color=00000000&title_color=2DE1C2&icon_color=B967FF&text_color=E0E0E0&ring_color=2DE1C2" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidFLT&hide_border=true&background=00000000&ring=2DE1C2&fire=B967FF&currStreakLabel=2DE1C2&sideLabels=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=8B8B8B&border=00000000" height="165" />
 
 </div>
